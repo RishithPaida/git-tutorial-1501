@@ -39,6 +39,8 @@ func hello_brian():
 func hello_rishi():
 	print("hello rishi")
 
+	hi
+
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
 #	pass
